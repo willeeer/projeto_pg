@@ -1,0 +1,55 @@
+﻿Build started 08/11/2017 10:10:17.
+     1>Project "C:\Users\phql\Desktop\PG-2013\source\source.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\phql\Desktop\PG-2013\opengl\glew-2.1.0\include\GL" /I"C:\Users\phql\Desktop\PG-2013\opengl\freeglut\include\GL" /I"C:\Users\phql\Desktop\PG-2013\opengl\DevIL\include\IL" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp util.cpp
+         util.cpp
+         main.cpp
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(47): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(48): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(49): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(50): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(65): warning C4244: 'initializing' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(66): warning C4244: 'initializing' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(194): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(195): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(196): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(197): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(198): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(199): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(200): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(201): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(263): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(264): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(270): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(271): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(280): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(281): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(287): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(288): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(297): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(298): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(304): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(305): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(314): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(315): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(321): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(322): warning C4244: 'argument' : conversion from 'GLfloat' to 'int', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(462): warning C4244: 'argument' : conversion from 'GLfloat' to 'GLsizei', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(537): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(538): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(539): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(540): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(541): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(542): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(543): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\phql\desktop\pg-2013\source\main.cpp(544): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\phql\Desktop\PG-2013\Debug\source.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\phql\Desktop\PG-2013\Debug\source.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\phql\Desktop\PG-2013\Debug\source.lib" /MACHINE:X86 Debug\main.obj
+         Debug\util.obj
+     1>LINK : fatal error LNK1104: cannot open file 'freeglut.lib'
+     1>Done Building Project "C:\Users\phql\Desktop\PG-2013\source\source.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.68
